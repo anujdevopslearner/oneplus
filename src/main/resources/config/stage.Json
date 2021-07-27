@@ -1,0 +1,4 @@
+{
+  "env": "stage",
+  "product_url": "http://oneplus-integ.api.stage.cashify.in/v1/get-variants?pincode=122001&pid=CSH9606"
+}
